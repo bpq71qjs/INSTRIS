@@ -1,0 +1,25 @@
+[
+    {
+        "COOKIES": {
+            "ig_cb": "2",
+            "ds_user_id": "67443877394",
+            "mid": "Z7ViOQALAAHgaxExpjrYsfNUhfm3",
+            "sessionid": "67443877394%3A6mRJ74fGxJ2eoc%3A23%3AAYcPW6hGge-x0pQZ_TYuyH6iFoyW2-h9EfWfOLaX1w",
+            "ig_did": "F73440EA-702E-4821-BE85-B4227C9AC57B",
+            "csrftoken": "UFRwMCgzD2wGBwtrF0atvJ"
+        },
+        "HEADERS": {
+            "X-Ig-App-Id": "936619743392459",
+            "X-CSRFToken": "UFRwMCgzD2wGBwtrF0atvJ",
+            "Referer": "https:\/\/www.instagram.com\/",
+            "x-requested-with": "XMLHttpRequest",
+            "Content-Type": "application\/x-www-form-urlencoded",
+            "user-agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/130.0.0.0 Safari\/537.36",
+            "X-Asbd-Id": "129477"
+        },
+        "INFO": {
+            "password": "**wlsgml81",
+            "username": "_21892189"
+        }
+    }
+]
